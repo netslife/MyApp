@@ -13,6 +13,8 @@ namespace MyAppConsole
             // değişiklik yapıldı
             // kod yazıldı
             // kod degistirildi2
+
+            //kod değişti.
         }
     }
 }
