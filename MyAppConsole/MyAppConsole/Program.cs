@@ -18,6 +18,8 @@ namespace MyAppConsole
 
             //tekrar değiştirildi.
             // dev1 değiştirildi.
+            
+            // fetch ve pool request
         }
     }
 }
