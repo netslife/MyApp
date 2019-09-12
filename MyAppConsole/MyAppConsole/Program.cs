@@ -12,6 +12,7 @@ namespace MyAppConsole
         {
             // değişiklik yapıldı
             // kod yazıldı
+            // kod degistirildi2
         }
     }
 }
