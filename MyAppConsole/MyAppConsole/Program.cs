@@ -11,6 +11,7 @@ namespace MyAppConsole
         static void Main(string[] args)
         {
             // değişiklik yapıldı
+            // kod yazıldı
         }
     }
 }
