@@ -15,6 +15,8 @@ namespace MyAppConsole
             // kod degistirildi2
 
             //kod değişti.
+
+            //tekrar değiştirildi.
         }
     }
 }
